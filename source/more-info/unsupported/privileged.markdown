@@ -15,3 +15,5 @@ supervisor panel.
 
 If this is not our Home Assistant OS, you need to re-run our
 [convenience installation script](https://github.com/home-assistant/supervised-installer).
+
+If this does not work, you're shit out of luck
